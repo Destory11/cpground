@@ -883,7 +883,7 @@
                                     staticStyle: {
                                       position: "absolute",
                                       top: "-3rpx",
-                                      right: "0px",
+                                      right: "-2px",
                                       color: "#9FA7B4",
                                     },
                                   },
