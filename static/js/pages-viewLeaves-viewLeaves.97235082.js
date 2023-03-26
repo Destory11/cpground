@@ -444,8 +444,8 @@
                               {
                                 staticClass: "blackFont",
                                 staticStyle: {
-                                  "margin-left": "-5rpx",
-                                  "font-size": "1rpx"
+                                  "margin-left": "-18rpx",
+                                  "font-size": "1px"
                                 },
                                 style: t.leaveDateStyle(),
                               },
